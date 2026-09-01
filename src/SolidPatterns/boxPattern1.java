@@ -1,4 +1,4 @@
-package Patterns;
+package SolidPatterns;
 
 public class boxPattern1 {
     public static void main(String[] args) {

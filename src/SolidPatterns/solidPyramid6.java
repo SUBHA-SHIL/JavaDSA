@@ -1,4 +1,4 @@
-package Patterns;
+package SolidPatterns;
 
 public class solidPyramid6 {
     public static void main(String[] args) {

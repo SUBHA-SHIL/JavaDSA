@@ -1,6 +1,5 @@
-package Arrays;
+package Arrays.arrays1D;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class takingInput {
